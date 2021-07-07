@@ -39,7 +39,7 @@ Saat ini saya terbuka untuk peluang apa pun terutama di bidang IT sebagai Web De
 
 ### Mari terhubung!
 <p>
-        <a href="https://fb.me/zendev.rf.gd" target="blank"><img src="https://img.shields.io/badge/Zen Dev-30302f?style=flat&logo=facebook" /></a>
+        <a href="https://fb.me/kawazuno.orihachi" target="blank"><img src="https://img.shields.io/badge/CEO TEGUH-30302f?style=flat&logo=facebook" /></a>
         <a href="https://zendeve.000webhostapp.com" target="blank"><img src="https://img.shields.io/badge/https://zendeve.000webhostapp.com-30302f?style=flat&logo=wordpress" /></a>
         <a href="https://wa.me/6289530639515" target="blank"><img src="https://img.shields.io/badge/089530639515-30302f?style=flat&logo=whatsapp" /></a>
         <a href="" target="blank"><img src="https://img.shields.io/badge/https://youtube.com/c/WebDevMobile-30302f?style=flat&logo=youtube" /></a>

@@ -1,46 +1,51 @@
-# 🔰Ceo Teguh🔰
+<h2> Hey there! I'm Teguh Sabila.</h2>
 
-## Halo semua 👋
-Saat ini saya terbuka untuk peluang apa pun terutama di bidang IT sebagai Web Developer
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://gpvc.arturio.dev/zen-deve" />
+I'm a computer science student who is passionate about writing code, designing a website, beautifying website pages, and creating projects.
+
+- 🔭 I'm currently a student majoring in computer.
+- 📚 I'm currently studying frontend web development using HTML, CSS, Javascript.
+- 👯 I'm looking for a web design development internship.
+- 📫 How to reach me: [WhatsApp](https://wa.me/6289530639515)
+
+⭐️ From [Teguh Sabila](https://github.com/ceoteguh)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ceoteguh)
+
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-UI&UX_Designer-333333?style=flat&logo=adobe-xd)
+<br/>
+
+<a href="https://github.com/ceoteguh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceoteguh&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceoteguh&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.facebook.com/profile.php?id=100070754163224"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-AKANE-blue?style=flat-square&logo=facebook"></a>
+<a href="mailto: teguhsabila4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-teguhsabila4@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-### Stats:
-<details>
- <summary><strong>Apa yang saya pelajari / kerjakan hari ini</strong></summary>
-    -🔭 Saat ini saya sedang mengerjakan desain web</br>
-    - 🌱 Saat ini saya sedang mempelajari Pengembangan Web & Desain UI / UX </br>
-    - 🤔 Saya mencari bantuan dengan berdiskusi </br>
-    - 💬 Tanya saya tentang apa saja. </br>
-    - 📫 Cara menghubungi saya : <a href="mailto: teguhsabila4@gmail.com">Email Saya!</a>  </br>
-    - 😄 Kata ganti: Aku / Saya </br>
-    - ⚡ Fakta menyenangkan: Saya mengidolakan ilmuwan muslim Al-Khawarizmi </br>
-</details>
-
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ceoteguh&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceoteguh&layout=compact" height=180 />
-</p>
-
-## Trophies
-
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=ceoteguh&row=2&column=3"/>
-
-
-### Mari terhubung!
-<p>
-        <a href="https://fb.me/kawazuno.orihachi" target="blank"><img src="https://img.shields.io/badge/CEO TEGUH-30302f?style=flat&logo=facebook" /></a>
-        <a href="https://zendeve.000webhostapp.com" target="blank"><img src="https://img.shields.io/badge/https://zendeve.000webhostapp.com-30302f?style=flat&logo=wordpress" /></a>
-        <a href="https://wa.me/6289530639515" target="blank"><img src="https://img.shields.io/badge/089530639515-30302f?style=flat&logo=whatsapp" /></a>
-        <a href="" target="blank"><img src="https://img.shields.io/badge/https://youtube.com/c/WebDevMobile-30302f?style=flat&logo=youtube" /></a>
-</p>
+⭐️ From [Teguh Sabila](https://github.com/ceoteguh)
